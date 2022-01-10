@@ -1,0 +1,448 @@
+[
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/write_gg_img_4500_it.json",
+    "total": 4714,
+    "index": 4700,
+    "id_item": "write_gg_img_4500_it",
+    "english": "write",
+    "list_mean": [
+      "viết"
+    ],
+    "cau_en": "files can be read and written directly into the file system",
+    "cau_vn": "Các tệp có thể được đọc và ghi trực tiếp vào hệ thống tệp",
+    "hash_code_list_mean": "112354377",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810068665_2624411487_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810068665_0b4b8a2b55_o.png",
+        "id_image": "write_5511966"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810068775_759eb45cff_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810068775_5c7c121765_o.png",
+        "id_image": "write_705059"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809687049_3da3b6ed9a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809687049_c3d880e802_o.png",
+        "id_image": "write_878563"
+      }
+    ],
+    "hash_code_list_img": "-1622825933"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/wrong_gg_img_4500_it.json",
+    "total": 4714,
+    "index": 4701,
+    "id_item": "wrong_gg_img_4500_it",
+    "english": "wrong",
+    "list_mean": [
+      "sai",
+      "không đúng",
+      "lầm",
+      "tồi",
+      "trái",
+      "xấu",
+      "điều ác"
+    ],
+    "cau_en": "please forgive me these things and the people I have wronged",
+    "cau_vn": "Xin hãy tha thứ cho tôi những điều này và những người tôi đã sai",
+    "hash_code_list_mean": "1403603365",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809686774_1ca233e9aa_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809686774_a3b46b5e27_o.png",
+        "id_image": "wrong_1540647"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809446788_a546d625fb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809446788_4fc95373c7_o.png",
+        "id_image": "wrong_488697"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808376487_e73fa849be_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808376487_4d1c40992e_o.png",
+        "id_image": "wrong_5672746"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809331706_75e79f04f6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809331706_de1f1bf662_o.png",
+        "id_image": "wrong_5705495"
+      }
+    ],
+    "hash_code_list_img": "-1522026688"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/yard_gg_img_4500_it.json",
+    "total": 4714,
+    "index": 4702,
+    "id_item": "yard_gg_img_4500_it",
+    "english": "yard",
+    "list_mean": [
+      "sân có rào chung quanh",
+      "thước anh",
+      "trục buồm"
+    ],
+    "cau_en": "a full skirt that took twenty yards of cloth",
+    "cau_vn": "một chiếc váy đầy đủ gấp hai mươi mét vải",
+    "hash_code_list_mean": "78732876",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809331406_826e2953f6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809331406_3baca8f6ca_o.png",
+        "id_image": "yard_306705"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810068095_6d074aa152_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810068095_9dd976dcb4_o.png",
+        "id_image": "yard_5234304"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809446303_39ecba16fe_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809446303_6853096c98_o.png",
+        "id_image": "yard_5776764"
+      }
+    ],
+    "hash_code_list_img": "1662444465"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/yarn_gg_img_4500_it.json",
+    "total": 4714,
+    "index": 4703,
+    "id_item": "yarn_gg_img_4500_it",
+    "english": "yarn",
+    "list_mean": [
+      "chỉ len",
+      "chỉ sợi",
+      "chỉ dùng để bện thừng"
+    ],
+    "cau_en": "they were yarning about local legends and superstitions",
+    "cau_vn": "Họ đang làm tình yêu về những huyền thoại địa phương và mê tín",
+    "hash_code_list_mean": "-496728623",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810067995_31644aff6e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810067995_282b8557cf_o.png",
+        "id_image": "yarn_5617607"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809686329_75b3ebaff0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809686329_85032ceec8_o.png",
+        "id_image": "yarn_588425"
+      }
+    ],
+    "hash_code_list_img": "-1114288854"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/yawn_gg_img_4500_it.json",
+    "total": 4714,
+    "index": 4704,
+    "id_item": "yawn_gg_img_4500_it",
+    "english": "yawn",
+    "list_mean": [
+      "sự ngáp",
+      "hé ra",
+      "ngáp"
+    ],
+    "cau_en": "she started inching back from the abyss that yawned before her",
+    "cau_vn": "Cô bắt đầu ló nhích trở lại từ vực thẳm ngáp trước cô",
+    "hash_code_list_mean": "-49788600",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809446223_3b6453653b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809446223_71558d0bfd_o.png",
+        "id_image": "yawn_1128905"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809686234_b1b02020e2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809686234_ee161247ab_o.png",
+        "id_image": "yawn_1128961"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809686189_c342a944f9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809686189_6f63606c98_o.png",
+        "id_image": "yawn_5509051"
+      }
+    ],
+    "hash_code_list_img": "1502911280"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/yearbook_gg_img_4500_it.json",
+    "total": 4714,
+    "index": 4705,
+    "id_item": "yearbook_gg_img_4500_it",
+    "english": "yearbook",
+    "list_mean": [
+      "niên giám",
+      "sách in hàng năm"
+    ],
+    "cau_en": "Yearbook of Physical Anthropology",
+    "cau_vn": "Niên giám nhân chủng học",
+    "hash_code_list_mean": "-985972516",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809331056_c8a6d70b71_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809331056_c24c4b8984_o.png",
+        "id_image": "yearbook_124774"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810067775_4c095360b2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810067775_7f80343b3a_o.png",
+        "id_image": "yearbook_124775"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808375612_8c6c8b6789_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808375612_95075f2658_o.png",
+        "id_image": "yearbook_4650656"
+      }
+    ],
+    "hash_code_list_img": "-2103550163"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/yogurt_gg_img_4500_it.json",
+    "total": 4714,
+    "index": 4706,
+    "id_item": "yogurt_gg_img_4500_it",
+    "english": "yogurt",
+    "list_mean": [
+      "da ua",
+      "sữa chua"
+    ],
+    "cau_en": "low-fat yogurt",
+    "cau_vn": "sữa chua ít chất béo",
+    "hash_code_list_mean": "-1885242072",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809445378_d99d00f923_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809445378_5258c1cdb5_o.png",
+        "id_image": "yogurt_1867864"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810067250_169d1d5b42_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810067250_a40af94f2d_o.png",
+        "id_image": "yogurt_1907132"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809685459_5cb881e09d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809685459_3cd065b6cb_o.png",
+        "id_image": "yogurt_2923208"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808375037_cd4eaaba1b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808375037_8cae637048_o.png",
+        "id_image": "yogurt_2934145"
+      }
+    ],
+    "hash_code_list_img": "-1330305285"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/young_gg_img_4500_it.json",
+    "total": 4714,
+    "index": 4707,
+    "id_item": "young_gg_img_4500_it",
+    "english": "young",
+    "list_mean": [
+      "thiếu niên",
+      "trẻ",
+      "trẻ tuổi"
+    ],
+    "cau_en": "this species carries its young",
+    "cau_vn": "Loài này mang non trẻ",
+    "hash_code_list_mean": "1643153448",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808375027_0f79870853_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808375027_dff425965d_o.png",
+        "id_image": "young_2897024"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809685409_168493e8ab_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809685409_a63851197e_o.png",
+        "id_image": "young_3014426"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809445278_9813fcbc91_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809445278_b8b32c0a00_o.png",
+        "id_image": "young_3088339"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810067190_2c1bd5e472_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810067190_3a02dd3b2d_o.png",
+        "id_image": "young_3576969"
+      }
+    ],
+    "hash_code_list_img": "-151072104"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/youth_gg_img_4500_it.json",
+    "total": 4714,
+    "index": 4708,
+    "id_item": "youth_gg_img_4500_it",
+    "english": "youth",
+    "list_mean": [
+      "tuổi trẻ",
+      "tuổi xuân",
+      "thiếu niên"
+    ],
+    "cau_en": "he had been a keen sportsman in his youth",
+    "cau_vn": "anh ấy đã là một người chơi thể thao sâu sắc ở tuổi trẻ",
+    "hash_code_list_mean": "1948784750",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808374982_34f9e968b7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808374982_5cdca0c5a0_o.png",
+        "id_image": "youth_1312511"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809685364_bb53ea09f6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809685364_1121dc6823_o.png",
+        "id_image": "youth_3787893"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809330266_aea7175f89_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809330266_37831348b0_o.png",
+        "id_image": "youth_4901028"
+      }
+    ],
+    "hash_code_list_img": "1355429868"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/zany_gg_img_4500_it.json",
+    "total": 4714,
+    "index": 4709,
+    "id_item": "zany_gg_img_4500_it",
+    "english": "zany",
+    "list_mean": [
+      "đần độn",
+      "khờ dại,",
+      "người ngu ngốc",
+      "thằng hề"
+    ],
+    "cau_en": "zany humor",
+    "cau_vn": "Zany hài hước.",
+    "hash_code_list_mean": "-2083131693",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809445223_64e2753b11_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809445223_9a3d819d4f_o.png",
+        "id_image": "zany_1933795"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809330241_c7cf7eb732_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809330241_fa9ef9ee72_o.png",
+        "id_image": "zany_1933799"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809685299_a5ebbd594e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809685299_608fa2dece_o.png",
+        "id_image": "zany_3362076"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809685274_6829454b21_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809685274_e7e891049f_o.png",
+        "id_image": "zany_3508752"
+      }
+    ],
+    "hash_code_list_img": "1695903638"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/zigzag_gg_img_4500_it.json",
+    "total": 4714,
+    "index": 4710,
+    "id_item": "zigzag_gg_img_4500_it",
+    "english": "zigzag",
+    "list_mean": [
+      "hình đường chữ chi"
+    ],
+    "cau_en": "when chased by a predator, some animals take a zigzag course",
+    "cau_vn": "Khi bị truy đuổi bởi một kẻ săn mồi, một số động vật lấy một khóa học ngoằn ngoèo",
+    "hash_code_list_mean": "-153023395",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808374852_33bf064804_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808374852_b10fc1cd39_o.png",
+        "id_image": "zigzag_1655263"
+      }
+    ],
+    "hash_code_list_img": "573819615"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/zone_gg_img_4500_it.json",
+    "total": 4714,
+    "index": 4711,
+    "id_item": "zone_gg_img_4500_it",
+    "english": "zone",
+    "list_mean": [
+      "cầu đới",
+      "chia ra từng khu vực"
+    ],
+    "cau_en": "a pedestrian zone",
+    "cau_vn": "một khu vực dành cho người đi bộ",
+    "hash_code_list_mean": "105191280",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809330046_b80c0bc97b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809330046_3e3269b722_o.png",
+        "id_image": "zone_2191451"
+      }
+    ],
+    "hash_code_list_img": "1744523332"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/zoom_gg_img_4500_it.json",
+    "total": 4714,
+    "index": 4712,
+    "id_item": "zoom_gg_img_4500_it",
+    "english": "zoom",
+    "list_mean": [
+      "ống dòm"
+    ],
+    "cau_en": "the camera zoomed in for a close-up of his face",
+    "cau_vn": "Máy ảnh phóng to để cận cảnh khuôn mặt của anh ấy",
+    "hash_code_list_mean": "-1047537743",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809444893_a02bfda0cc_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809444893_4713eff869_o.png",
+        "id_image": "zoom_1512794"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810066580_857b84afb1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810066580_f3d3bfd1c4_o.png",
+        "id_image": "zoom_4151796"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808374477_9ca2f00f0c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808374477_76132f2bde_o.png",
+        "id_image": "zoom_4463647"
+      }
+    ],
+    "hash_code_list_img": "8622334"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/zoo_gg_img_4500_it.json",
+    "total": 4714,
+    "index": 4713,
+    "id_item": "zoo_gg_img_4500_it",
+    "english": "zoo",
+    "list_mean": [
+      "vườn bách thú"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "2025723235",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809445028_11d3d18f2e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809445028_24d750a167_o.png",
+        "id_image": "zoo_831506"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809684944_c3afbb4c84_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809684944_a4ab4922fd_o.png",
+        "id_image": "zoo_848571"
+      }
+    ],
+    "hash_code_list_img": "1475339902"
+  }
+]
