@@ -1,40 +1,8 @@
 [
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/menu_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2500,
-    "id_item": "menu_gg_img_4500_it",
-    "english": "menu",
-    "list_mean": [
-      "bảng kê những món ăn",
-      "thực đơn"
-    ],
-    "cau_en": "the waiter handed her a menu",
-    "cau_vn": "Người phục vụ đưa cho cô ấy một thực đơn",
-    "hash_code_list_mean": "-505930475",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810084120_494b0b4830_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810084120_03f59ff32c_o.png",
-        "id_image": "menu_129166"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808391637_14e52f7f26_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808391637_da47801963_o.png",
-        "id_image": "menu_325597"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808391632_89979ffb08_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808391632_ea92216f3d_o.png",
-        "id_image": "menu_325629"
-      }
-    ],
-    "hash_code_list_img": "-1129121660"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/merchandise_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2501,
+    "total": 4713,
+    "index": 2500,
     "id_item": "merchandise_gg_img_4500_it",
     "english": "merchandise",
     "list_mean": [
@@ -60,12 +28,12 @@
         "id_image": "merchandise_5671736"
       }
     ],
-    "hash_code_list_img": "105353706"
+    "hash_code_list_img": "-1129121660"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/merchant_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2502,
+    "total": 4713,
+    "index": 2501,
     "id_item": "merchant_gg_img_4500_it",
     "english": "merchant",
     "list_mean": [
@@ -100,12 +68,12 @@
         "id_image": "merchant_4633140"
       }
     ],
-    "hash_code_list_img": "-1627555315"
+    "hash_code_list_img": "-923608507"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/merger_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2503,
+    "total": 4713,
+    "index": 2502,
     "id_item": "merger_gg_img_4500_it",
     "english": "merger",
     "list_mean": [
@@ -132,12 +100,12 @@
         "id_image": "merger_5271102"
       }
     ],
-    "hash_code_list_img": "-1740064741"
+    "hash_code_list_img": "-1797119942"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/merge_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2504,
+    "total": 4713,
+    "index": 2503,
     "id_item": "merge_gg_img_4500_it",
     "english": "merge",
     "list_mean": [
@@ -166,12 +134,12 @@
         "id_image": "merge_589590"
       }
     ],
-    "hash_code_list_img": "-1014199003"
+    "hash_code_list_img": "-1740064741"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mesh_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2505,
+    "total": 4713,
+    "index": 2504,
     "id_item": "mesh_gg_img_4500_it",
     "english": "mesh",
     "list_mean": [
@@ -197,12 +165,12 @@
         "id_image": "mesh_5672436"
       }
     ],
-    "hash_code_list_img": "973657767"
+    "hash_code_list_img": "329451802"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/message_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2506,
+    "total": 4713,
+    "index": 2505,
     "id_item": "message_gg_img_4500_it",
     "english": "message",
     "list_mean": [
@@ -236,12 +204,12 @@
         "id_image": "message_685836"
       }
     ],
-    "hash_code_list_img": "609295917"
+    "hash_code_list_img": "587658884"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mess_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2507,
+    "total": 4713,
+    "index": 2506,
     "id_item": "mess_gg_img_4500_it",
     "english": "mess",
     "list_mean": [
@@ -273,12 +241,12 @@
         "id_image": "mess_4797083"
       }
     ],
-    "hash_code_list_img": "-489566614"
+    "hash_code_list_img": "-719989581"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/metabolism_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2508,
+    "total": 4713,
+    "index": 2507,
     "id_item": "metabolism_gg_img_4500_it",
     "english": "metabolism",
     "list_mean": [
@@ -305,12 +273,12 @@
         "id_image": "metabolism_4178818"
       }
     ],
-    "hash_code_list_img": "1453336789"
+    "hash_code_list_img": "1071217544"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/metal_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2509,
+    "total": 4713,
+    "index": 2508,
     "id_item": "metal_gg_img_4500_it",
     "english": "metal",
     "list_mean": [
@@ -339,12 +307,12 @@
         "id_image": "metal_2670429"
       }
     ],
-    "hash_code_list_img": "-1685964325"
+    "hash_code_list_img": "-1515732508"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/metamorphosis_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2510,
+    "total": 4713,
+    "index": 2509,
     "id_item": "metamorphosis_gg_img_4500_it",
     "english": "metamorphosis",
     "list_mean": [
@@ -366,12 +334,12 @@
         "id_image": "metamorphosis_5969090"
       }
     ],
-    "hash_code_list_img": "1980893329"
+    "hash_code_list_img": "-235760313"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/metaphor_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2511,
+    "total": 4713,
+    "index": 2510,
     "id_item": "metaphor_gg_img_4500_it",
     "english": "metaphor",
     "list_mean": [
@@ -387,12 +355,12 @@
         "id_image": "metaphor_2586994"
       }
     ],
-    "hash_code_list_img": "224192926"
+    "hash_code_list_img": "20945656"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/meter_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2512,
+    "total": 4713,
+    "index": 2511,
     "id_item": "meter_gg_img_4500_it",
     "english": "meter",
     "list_mean": [
@@ -420,12 +388,12 @@
         "id_image": "meter_3468185"
       }
     ],
-    "hash_code_list_img": "-1493454543"
+    "hash_code_list_img": "1980893329"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/methodology_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2513,
+    "total": 4713,
+    "index": 2512,
     "id_item": "methodology_gg_img_4500_it",
     "english": "methodology",
     "list_mean": [
@@ -446,12 +414,12 @@
         "id_image": "methodology_6289195"
       }
     ],
-    "hash_code_list_img": "-1668528228"
+    "hash_code_list_img": "243834241"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/method_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2514,
+    "total": 4713,
+    "index": 2513,
     "id_item": "method_gg_img_4500_it",
     "english": "method",
     "list_mean": [
@@ -486,12 +454,12 @@
         "id_image": "method_6326801"
       }
     ],
-    "hash_code_list_img": "1803544050"
+    "hash_code_list_img": "-2072704922"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/metric_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2515,
+    "total": 4713,
+    "index": 2514,
     "id_item": "metric_gg_img_4500_it",
     "english": "metric",
     "list_mean": [
@@ -507,12 +475,12 @@
         "id_image": "metric_5488030"
       }
     ],
-    "hash_code_list_img": "1099694634"
+    "hash_code_list_img": "1917607133"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/microwave_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2516,
+    "total": 4713,
+    "index": 2515,
     "id_item": "microwave_gg_img_4500_it",
     "english": "microwave",
     "list_mean": [
@@ -534,12 +502,12 @@
         "id_image": "microwave_298341"
       }
     ],
-    "hash_code_list_img": "-154117824"
+    "hash_code_list_img": "47925251"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/middle_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2517,
+    "total": 4713,
+    "index": 2516,
     "id_item": "middle_gg_img_4500_it",
     "english": "middle",
     "list_mean": [
@@ -567,12 +535,12 @@
         "id_image": "middle_3603595"
       }
     ],
-    "hash_code_list_img": "-583404598"
+    "hash_code_list_img": "1093231166"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mid_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2518,
+    "total": 4713,
+    "index": 2517,
     "id_item": "mid_gg_img_4500_it",
     "english": "mid",
     "list_mean": [
@@ -590,12 +558,12 @@
         "id_image": "mid_3014430"
       }
     ],
-    "hash_code_list_img": "1299885249"
+    "hash_code_list_img": "560041926"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/migraine_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2519,
+    "total": 4713,
+    "index": 2518,
     "id_item": "migraine_gg_img_4500_it",
     "english": "migraine",
     "list_mean": [
@@ -617,12 +585,12 @@
         "id_image": "migraine_3998088"
       }
     ],
-    "hash_code_list_img": "191828358"
+    "hash_code_list_img": "-583404598"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/migration_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2520,
+    "total": 4713,
+    "index": 2519,
     "id_item": "migration_gg_img_4500_it",
     "english": "migration",
     "list_mean": [
@@ -643,12 +611,12 @@
         "id_image": "migration_4819468"
       }
     ],
-    "hash_code_list_img": "-338723772"
+    "hash_code_list_img": "-1037694596"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mike_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2521,
+    "total": 4713,
+    "index": 2520,
     "id_item": "mike_gg_img_4500_it",
     "english": "mike",
     "list_mean": [
@@ -666,12 +634,12 @@
         "id_image": "mike_6388866"
       }
     ],
-    "hash_code_list_img": "253380119"
+    "hash_code_list_img": "1649829985"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mileage_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2522,
+    "total": 4713,
+    "index": 2521,
     "id_item": "mileage_gg_img_4500_it",
     "english": "mileage",
     "list_mean": [
@@ -689,12 +657,12 @@
         "id_image": "mileage_5235583"
       }
     ],
-    "hash_code_list_img": "1591683136"
+    "hash_code_list_img": "790538284"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/milestone_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2523,
+    "total": 4713,
+    "index": 2522,
     "id_item": "milestone_gg_img_4500_it",
     "english": "milestone",
     "list_mean": [
@@ -720,12 +688,12 @@
         "id_image": "milestone_5521174"
       }
     ],
-    "hash_code_list_img": "1364655402"
+    "hash_code_list_img": "140195960"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/military_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2524,
+    "total": 4713,
+    "index": 2523,
     "id_item": "military_gg_img_4500_it",
     "english": "military",
     "list_mean": [
@@ -754,12 +722,12 @@
         "id_image": "military_771344"
       }
     ],
-    "hash_code_list_img": "1679771107"
+    "hash_code_list_img": "1364655402"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/milky_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2525,
+    "total": 4713,
+    "index": 2524,
     "id_item": "milky_gg_img_4500_it",
     "english": "milky",
     "list_mean": [
@@ -790,12 +758,12 @@
         "id_image": "milky_757001"
       }
     ],
-    "hash_code_list_img": "-1088134372"
+    "hash_code_list_img": "1623354405"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/milk_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2526,
+    "total": 4713,
+    "index": 2525,
     "id_item": "milk_gg_img_4500_it",
     "english": "milk",
     "list_mean": [
@@ -816,12 +784,12 @@
         "id_image": "milk_373024"
       }
     ],
-    "hash_code_list_img": "2052452711"
+    "hash_code_list_img": "536671891"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/millionaire_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2527,
+    "total": 4713,
+    "index": 2526,
     "id_item": "millionaire_gg_img_4500_it",
     "english": "millionaire",
     "list_mean": [
@@ -847,12 +815,12 @@
         "id_image": "millionaire_4576277"
       }
     ],
-    "hash_code_list_img": "1993607550"
+    "hash_code_list_img": "-1798854984"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mill_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2528,
+    "total": 4713,
+    "index": 2527,
     "id_item": "mill_gg_img_4500_it",
     "english": "mill",
     "list_mean": [
@@ -895,12 +863,12 @@
         "id_image": "mill_6092381"
       }
     ],
-    "hash_code_list_img": "1904786640"
+    "hash_code_list_img": "-1903529114"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mime_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2529,
+    "total": 4713,
+    "index": 2528,
     "id_item": "mime_gg_img_4500_it",
     "english": "mime",
     "list_mean": [
@@ -924,12 +892,12 @@
         "id_image": "mime_773391"
       }
     ],
-    "hash_code_list_img": "-1508191337"
+    "hash_code_list_img": "-979502744"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mince_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2530,
+    "total": 4713,
+    "index": 2529,
     "id_item": "mince_gg_img_4500_it",
     "english": "mince",
     "list_mean": [
@@ -951,12 +919,12 @@
         "id_image": "mince_3690250"
       }
     ],
-    "hash_code_list_img": "209748518"
+    "hash_code_list_img": "1413871065"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mind_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2531,
+    "total": 4713,
+    "index": 2530,
     "id_item": "mind_gg_img_4500_it",
     "english": "mind",
     "list_mean": [
@@ -999,12 +967,12 @@
         "id_image": "mind_1935494"
       }
     ],
-    "hash_code_list_img": "1041514825"
+    "hash_code_list_img": "700457296"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mineral_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2532,
+    "total": 4713,
+    "index": 2531,
     "id_item": "mineral_gg_img_4500_it",
     "english": "mineral",
     "list_mean": [
@@ -1026,12 +994,12 @@
         "id_image": "mineral_649076"
       }
     ],
-    "hash_code_list_img": "-2086450644"
+    "hash_code_list_img": "-714919128"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/miner_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2533,
+    "total": 4713,
+    "index": 2532,
     "id_item": "miner_gg_img_4500_it",
     "english": "miner",
     "list_mean": [
@@ -1059,12 +1027,12 @@
         "id_image": "miner_360466"
       }
     ],
-    "hash_code_list_img": "1615298012"
+    "hash_code_list_img": "1789833723"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mine_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2534,
+    "total": 4713,
+    "index": 2533,
     "id_item": "mine_gg_img_4500_it",
     "english": "mine",
     "list_mean": [
@@ -1099,12 +1067,12 @@
         "id_image": "mine_942381"
       }
     ],
-    "hash_code_list_img": "2134141354"
+    "hash_code_list_img": "1615298012"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/minimal_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2535,
+    "total": 4713,
+    "index": 2534,
     "id_item": "minimal_gg_img_4500_it",
     "english": "minimal",
     "list_mean": [
@@ -1126,12 +1094,12 @@
         "id_image": "minimal_4660895"
       }
     ],
-    "hash_code_list_img": "-835276116"
+    "hash_code_list_img": "1559947883"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/minimize_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2536,
+    "total": 4713,
+    "index": 2535,
     "id_item": "minimize_gg_img_4500_it",
     "english": "minimize",
     "list_mean": [
@@ -1159,12 +1127,12 @@
         "id_image": "minimize_376873"
       }
     ],
-    "hash_code_list_img": "-1527052694"
+    "hash_code_list_img": "513953983"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/minority_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2537,
+    "total": 4713,
+    "index": 2536,
     "id_item": "minority_gg_img_4500_it",
     "english": "minority",
     "list_mean": [
@@ -1181,12 +1149,12 @@
         "id_image": "minority_6334000"
       }
     ],
-    "hash_code_list_img": "1307810471"
+    "hash_code_list_img": "1791014708"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/minor_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2538,
+    "total": 4713,
+    "index": 2537,
     "id_item": "minor_gg_img_4500_it",
     "english": "minor",
     "list_mean": [
@@ -1206,12 +1174,12 @@
         "id_image": "minor_2332289"
       }
     ],
-    "hash_code_list_img": "577037403"
+    "hash_code_list_img": "1183572853"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mint_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2539,
+    "total": 4713,
+    "index": 2538,
     "id_item": "mint_gg_img_4500_it",
     "english": "mint",
     "list_mean": [
@@ -1250,12 +1218,12 @@
         "id_image": "mint_5389307"
       }
     ],
-    "hash_code_list_img": "2070331527"
+    "hash_code_list_img": "-2075890314"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/minus_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2540,
+    "total": 4713,
+    "index": 2539,
     "id_item": "minus_gg_img_4500_it",
     "english": "minus",
     "list_mean": [
@@ -1287,12 +1255,12 @@
         "id_image": "minus_5982743"
       }
     ],
-    "hash_code_list_img": "592529888"
+    "hash_code_list_img": "-476540500"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/minute_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2541,
+    "total": 4713,
+    "index": 2540,
     "id_item": "minute_gg_img_4500_it",
     "english": "minute",
     "list_mean": [
@@ -1319,12 +1287,12 @@
         "id_image": "minute_817285"
       }
     ],
-    "hash_code_list_img": "672982746"
+    "hash_code_list_img": "1595472369"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mirror_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2542,
+    "total": 4713,
+    "index": 2541,
     "id_item": "mirror_gg_img_4500_it",
     "english": "mirror",
     "list_mean": [
@@ -1352,12 +1320,12 @@
         "id_image": "mirror_699316"
       }
     ],
-    "hash_code_list_img": "552086683"
+    "hash_code_list_img": "-392013753"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/miscellaneous_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2543,
+    "total": 4713,
+    "index": 2542,
     "id_item": "miscellaneous_gg_img_4500_it",
     "english": "miscellaneous",
     "list_mean": [
@@ -1376,12 +1344,12 @@
         "id_image": "miscellaneous_1798666"
       }
     ],
-    "hash_code_list_img": "1586246847"
+    "hash_code_list_img": "819092514"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/missile_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2544,
+    "total": 4713,
+    "index": 2543,
     "id_item": "missile_gg_img_4500_it",
     "english": "missile",
     "list_mean": [
@@ -1410,12 +1378,12 @@
         "id_image": "missile_4469603"
       }
     ],
-    "hash_code_list_img": "61065697"
+    "hash_code_list_img": "-354781402"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/missionary_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2545,
+    "total": 4713,
+    "index": 2544,
     "id_item": "missionary_gg_img_4500_it",
     "english": "missionary",
     "list_mean": [
@@ -1433,12 +1401,12 @@
         "id_image": "missionary_1075070"
       }
     ],
-    "hash_code_list_img": "90097013"
+    "hash_code_list_img": "2082232661"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mission_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2546,
+    "total": 4713,
+    "index": 2545,
     "id_item": "mission_gg_img_4500_it",
     "english": "mission",
     "list_mean": [
@@ -1477,12 +1445,12 @@
         "id_image": "mission_780578"
       }
     ],
-    "hash_code_list_img": "-595589452"
+    "hash_code_list_img": "1921066201"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mist_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2547,
+    "total": 4713,
+    "index": 2546,
     "id_item": "mist_gg_img_4500_it",
     "english": "mist",
     "list_mean": [
@@ -1505,12 +1473,12 @@
         "id_image": "mist_5756826"
       }
     ],
-    "hash_code_list_img": "-618573410"
+    "hash_code_list_img": "226437422"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mite_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2548,
+    "total": 4713,
+    "index": 2547,
     "id_item": "mite_gg_img_4500_it",
     "english": "mite",
     "list_mean": [
@@ -1527,12 +1495,12 @@
         "id_image": "mite_1357517"
       }
     ],
-    "hash_code_list_img": "892591925"
+    "hash_code_list_img": "939625345"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mitigation_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2549,
+    "total": 4713,
+    "index": 2548,
     "id_item": "mitigation_gg_img_4500_it",
     "english": "mitigation",
     "list_mean": [
@@ -1549,12 +1517,12 @@
         "id_image": "mitigation_6159899"
       }
     ],
-    "hash_code_list_img": "22874216"
+    "hash_code_list_img": "216644040"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mitt_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2550,
+    "total": 4713,
+    "index": 2549,
     "id_item": "mitt_gg_img_4500_it",
     "english": "mitt",
     "list_mean": [
@@ -1575,12 +1543,12 @@
         "id_image": "mitt_447189"
       }
     ],
-    "hash_code_list_img": "-611494528"
+    "hash_code_list_img": "1155161393"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mixer_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2551,
+    "total": 4713,
+    "index": 2550,
     "id_item": "mixer_gg_img_4500_it",
     "english": "mixer",
     "list_mean": [
@@ -1608,12 +1576,12 @@
         "id_image": "mixer_294629"
       }
     ],
-    "hash_code_list_img": "1625473204"
+    "hash_code_list_img": "-104210393"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mix_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2552,
+    "total": 4713,
+    "index": 2551,
     "id_item": "mix_gg_img_4500_it",
     "english": "mix",
     "list_mean": [
@@ -1652,12 +1620,12 @@
         "id_image": "mix_5376878"
       }
     ],
-    "hash_code_list_img": "1648708575"
+    "hash_code_list_img": "1625473204"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mobile_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2553,
+    "total": 4713,
+    "index": 2552,
     "id_item": "mobile_gg_img_4500_it",
     "english": "mobile",
     "list_mean": [
@@ -1682,12 +1650,12 @@
         "id_image": "mobile_1447580"
       }
     ],
-    "hash_code_list_img": "1161371549"
+    "hash_code_list_img": "955700406"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mobility_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2554,
+    "total": 4713,
+    "index": 2553,
     "id_item": "mobility_gg_img_4500_it",
     "english": "mobility",
     "list_mean": [
@@ -1715,12 +1683,12 @@
         "id_image": "mobility_5398205"
       }
     ],
-    "hash_code_list_img": "1017652072"
+    "hash_code_list_img": "794818768"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mob_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2555,
+    "total": 4713,
+    "index": 2554,
     "id_item": "mob_gg_img_4500_it",
     "english": "mob",
     "list_mean": [
@@ -1740,12 +1708,12 @@
         "id_image": "mob_3292647"
       }
     ],
-    "hash_code_list_img": "81355375"
+    "hash_code_list_img": "1722645519"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mocha_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2556,
+    "total": 4713,
+    "index": 2555,
     "id_item": "mocha_gg_img_4500_it",
     "english": "mocha",
     "list_mean": [
@@ -1771,12 +1739,12 @@
         "id_image": "mocha_265369"
       }
     ],
-    "hash_code_list_img": "775980334"
+    "hash_code_list_img": "-1499575626"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/model_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2557,
+    "total": 4713,
+    "index": 2556,
     "id_item": "model_gg_img_4500_it",
     "english": "model",
     "list_mean": [
@@ -1813,12 +1781,12 @@
         "id_image": "model_6036762"
       }
     ],
-    "hash_code_list_img": "907750651"
+    "hash_code_list_img": "775980334"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/modem_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2558,
+    "total": 4713,
+    "index": 2557,
     "id_item": "modem_gg_img_4500_it",
     "english": "modem",
     "list_mean": [
@@ -1844,12 +1812,12 @@
         "id_image": "modem_860260"
       }
     ],
-    "hash_code_list_img": "-599704471"
+    "hash_code_list_img": "907750651"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/moderator_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2559,
+    "total": 4713,
+    "index": 2558,
     "id_item": "moderator_gg_img_4500_it",
     "english": "moderator",
     "list_mean": [
@@ -1872,12 +1840,12 @@
         "id_image": "moderator_4643268"
       }
     ],
-    "hash_code_list_img": "1895565922"
+    "hash_code_list_img": "-1278732960"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/modernization_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2560,
+    "total": 4713,
+    "index": 2559,
     "id_item": "modernization_gg_img_4500_it",
     "english": "modernization",
     "list_mean": [
@@ -1893,12 +1861,12 @@
         "id_image": "modernization_1610495"
       }
     ],
-    "hash_code_list_img": "952288040"
+    "hash_code_list_img": "386311656"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/modern_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2561,
+    "total": 4713,
+    "index": 2560,
     "id_item": "modern_gg_img_4500_it",
     "english": "modern",
     "list_mean": [
@@ -1936,12 +1904,12 @@
         "id_image": "modern_6377221"
       }
     ],
-    "hash_code_list_img": "614006241"
+    "hash_code_list_img": "-610253737"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mode_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2562,
+    "total": 4713,
+    "index": 2561,
     "id_item": "mode_gg_img_4500_it",
     "english": "mode",
     "list_mean": [
@@ -1969,12 +1937,12 @@
         "id_image": "mode_3653321"
       }
     ],
-    "hash_code_list_img": "293321916"
+    "hash_code_list_img": "-231736557"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/modify_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2563,
+    "total": 4713,
+    "index": 2562,
     "id_item": "modify_gg_img_4500_it",
     "english": "modify",
     "list_mean": [
@@ -1994,12 +1962,12 @@
         "id_image": "modify_2196224"
       }
     ],
-    "hash_code_list_img": "1681215807"
+    "hash_code_list_img": "1928224163"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/moisture_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2564,
+    "total": 4713,
+    "index": 2563,
     "id_item": "moisture_gg_img_4500_it",
     "english": "moisture",
     "list_mean": [
@@ -2022,12 +1990,12 @@
         "id_image": "moisture_5830611"
       }
     ],
-    "hash_code_list_img": "1711841279"
+    "hash_code_list_img": "293321916"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mold_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2565,
+    "total": 4713,
+    "index": 2564,
     "id_item": "mold_gg_img_4500_it",
     "english": "mold",
     "list_mean": [
@@ -2060,12 +2028,12 @@
         "id_image": "mold_1999883"
       }
     ],
-    "hash_code_list_img": "-1532704956"
+    "hash_code_list_img": "-2027161344"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/molecular_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2566,
+    "total": 4713,
+    "index": 2565,
     "id_item": "molecular_gg_img_4500_it",
     "english": "molecular",
     "list_mean": [
@@ -2091,12 +2059,12 @@
         "id_image": "molecular_710480"
       }
     ],
-    "hash_code_list_img": "-931154069"
+    "hash_code_list_img": "1332670303"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mole_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2567,
+    "total": 4713,
+    "index": 2566,
     "id_item": "mole_gg_img_4500_it",
     "english": "mole",
     "list_mean": [
@@ -2125,12 +2093,12 @@
         "id_image": "mole_371930"
       }
     ],
-    "hash_code_list_img": "-1142459665"
+    "hash_code_list_img": "-931154069"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/momentum_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2568,
+    "total": 4713,
+    "index": 2567,
     "id_item": "momentum_gg_img_4500_it",
     "english": "momentum",
     "list_mean": [
@@ -2156,12 +2124,12 @@
         "id_image": "momentum_2050282"
       }
     ],
-    "hash_code_list_img": "-1729799262"
+    "hash_code_list_img": "-1142459665"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/monetary_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2569,
+    "total": 4713,
+    "index": 2568,
     "id_item": "monetary_gg_img_4500_it",
     "english": "monetary",
     "list_mean": [
@@ -2184,12 +2152,12 @@
         "id_image": "monetary_4496615"
       }
     ],
-    "hash_code_list_img": "1437135851"
+    "hash_code_list_img": "1596324076"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/monetize_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2570,
+    "total": 4713,
+    "index": 2569,
     "id_item": "monetize_gg_img_4500_it",
     "english": "monetize",
     "list_mean": [
@@ -2216,12 +2184,12 @@
         "id_image": "monetize_6433522"
       }
     ],
-    "hash_code_list_img": "-1437915078"
+    "hash_code_list_img": "-960229353"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/money_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2571,
+    "total": 4713,
+    "index": 2570,
     "id_item": "money_gg_img_4500_it",
     "english": "money",
     "list_mean": [
@@ -2251,12 +2219,12 @@
         "id_image": "money_171689"
       }
     ],
-    "hash_code_list_img": "-596927230"
+    "hash_code_list_img": "-1437915078"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/monitor_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2572,
+    "total": 4713,
+    "index": 2571,
     "id_item": "monitor_gg_img_4500_it",
     "english": "monitor",
     "list_mean": [
@@ -2285,12 +2253,12 @@
         "id_image": "monitor_294630"
       }
     ],
-    "hash_code_list_img": "1505572255"
+    "hash_code_list_img": "-596927230"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/monocular_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2573,
+    "total": 4713,
+    "index": 2572,
     "id_item": "monocular_gg_img_4500_it",
     "english": "monocular",
     "list_mean": [
@@ -2311,12 +2279,12 @@
         "id_image": "monocular_5566323"
       }
     ],
-    "hash_code_list_img": "-658157652"
+    "hash_code_list_img": "408961545"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/monogamy_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2574,
+    "total": 4713,
+    "index": 2573,
     "id_item": "monogamy_gg_img_4500_it",
     "english": "monogamy",
     "list_mean": [
@@ -2333,12 +2301,12 @@
         "id_image": "monogamy_5526338"
       }
     ],
-    "hash_code_list_img": "1894978369"
+    "hash_code_list_img": "1712666279"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/monopoly_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2575,
+    "total": 4713,
+    "index": 2574,
     "id_item": "monopoly_gg_img_4500_it",
     "english": "monopoly",
     "list_mean": [
@@ -2369,12 +2337,12 @@
         "id_image": "monopoly_3274250"
       }
     ],
-    "hash_code_list_img": "-442573219"
+    "hash_code_list_img": "-1455603572"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/monthly_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2576,
+    "total": 4713,
+    "index": 2575,
     "id_item": "monthly_gg_img_4500_it",
     "english": "monthly",
     "list_mean": [
@@ -2403,12 +2371,12 @@
         "id_image": "monthly_5571536"
       }
     ],
-    "hash_code_list_img": "178947587"
+    "hash_code_list_img": "-228776643"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/monumental_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2577,
+    "total": 4713,
+    "index": 2576,
     "id_item": "monumental_gg_img_4500_it",
     "english": "monumental",
     "list_mean": [
@@ -2431,12 +2399,12 @@
         "id_image": "monumental_422038"
       }
     ],
-    "hash_code_list_img": "430596497"
+    "hash_code_list_img": "-455353627"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/monument_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2578,
+    "total": 4713,
+    "index": 2577,
     "id_item": "monument_gg_img_4500_it",
     "english": "monument",
     "list_mean": [
@@ -2463,12 +2431,12 @@
         "id_image": "monument_5392244"
       }
     ],
-    "hash_code_list_img": "-1345834985"
+    "hash_code_list_img": "-1761221513"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mood_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2579,
+    "total": 4713,
+    "index": 2578,
     "id_item": "mood_gg_img_4500_it",
     "english": "mood",
     "list_mean": [
@@ -2498,12 +2466,12 @@
         "id_image": "mood_6134059"
       }
     ],
-    "hash_code_list_img": "-2082850795"
+    "hash_code_list_img": "-1345834985"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/moon_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2580,
+    "total": 4713,
+    "index": 2579,
     "id_item": "moon_gg_img_4500_it",
     "english": "moon",
     "list_mean": [
@@ -2533,12 +2501,12 @@
         "id_image": "moon_433842"
       }
     ],
-    "hash_code_list_img": "462842705"
+    "hash_code_list_img": "-2082850795"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/moor_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2581,
+    "total": 4713,
+    "index": 2580,
     "id_item": "moor_gg_img_4500_it",
     "english": "moor",
     "list_mean": [
@@ -2560,12 +2528,12 @@
         "id_image": "moor_2000317"
       }
     ],
-    "hash_code_list_img": "603401639"
+    "hash_code_list_img": "1668376658"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mop_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2582,
+    "total": 4713,
+    "index": 2581,
     "id_item": "mop_gg_img_4500_it",
     "english": "mop",
     "list_mean": [
@@ -2601,12 +2569,12 @@
         "id_image": "mop_5234131"
       }
     ],
-    "hash_code_list_img": "-127466897"
+    "hash_code_list_img": "894726125"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/morality_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2583,
+    "total": 4713,
+    "index": 2582,
     "id_item": "morality_gg_img_4500_it",
     "english": "morality",
     "list_mean": [
@@ -2630,12 +2598,12 @@
         "id_image": "morality_6203283"
       }
     ],
-    "hash_code_list_img": "1726687992"
+    "hash_code_list_img": "1365944309"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/moral_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2584,
+    "total": 4713,
+    "index": 2583,
     "id_item": "moral_gg_img_4500_it",
     "english": "moral",
     "list_mean": [
@@ -2663,12 +2631,12 @@
         "id_image": "moral_6352978"
       }
     ],
-    "hash_code_list_img": "214051074"
+    "hash_code_list_img": "597531958"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/more_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2585,
+    "total": 4713,
+    "index": 2584,
     "id_item": "more_gg_img_4500_it",
     "english": "more",
     "list_mean": [
@@ -2694,12 +2662,12 @@
         "id_image": "more_455902"
       }
     ],
-    "hash_code_list_img": "-1788452608"
+    "hash_code_list_img": "-1115702135"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/morgue_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2586,
+    "total": 4713,
+    "index": 2585,
     "id_item": "morgue_gg_img_4500_it",
     "english": "morgue",
     "list_mean": [
@@ -2720,12 +2688,12 @@
         "id_image": "morgue_6001056"
       }
     ],
-    "hash_code_list_img": "1210067366"
+    "hash_code_list_img": "1549120119"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/moroccan_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2587,
+    "total": 4713,
+    "index": 2586,
     "id_item": "moroccan_gg_img_4500_it",
     "english": "moroccan",
     "list_mean": [
@@ -2742,12 +2710,12 @@
         "id_image": "moroccan_4366797"
       }
     ],
-    "hash_code_list_img": "892611918"
+    "hash_code_list_img": "1819897056"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mortar_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2588,
+    "total": 4713,
+    "index": 2587,
     "id_item": "mortar_gg_img_4500_it",
     "english": "mortar",
     "list_mean": [
@@ -2783,12 +2751,12 @@
         "id_image": "mortar_963300"
       }
     ],
-    "hash_code_list_img": "-993945458"
+    "hash_code_list_img": "1150951683"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mortgage_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2589,
+    "total": 4713,
+    "index": 2588,
     "id_item": "mortgage_gg_img_4500_it",
     "english": "mortgage",
     "list_mean": [
@@ -2824,12 +2792,12 @@
         "id_image": "mortgage_646635"
       }
     ],
-    "hash_code_list_img": "-2077811184"
+    "hash_code_list_img": "2102983484"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mortuary_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2590,
+    "total": 4713,
+    "index": 2589,
     "id_item": "mortuary_gg_img_4500_it",
     "english": "mortuary",
     "list_mean": [
@@ -2848,12 +2816,12 @@
         "id_image": "mortuary_5967445"
       }
     ],
-    "hash_code_list_img": "1582330826"
+    "hash_code_list_img": "2007149161"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mosaic_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2591,
+    "total": 4713,
+    "index": 2590,
     "id_item": "mosaic_gg_img_4500_it",
     "english": "mosaic",
     "list_mean": [
@@ -2875,12 +2843,12 @@
         "id_image": "mosaic_3723461"
       }
     ],
-    "hash_code_list_img": "1544966543"
+    "hash_code_list_img": "-644786086"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/moss_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2592,
+    "total": 4713,
+    "index": 2591,
     "id_item": "moss_gg_img_4500_it",
     "english": "moss",
     "list_mean": [
@@ -2909,12 +2877,12 @@
         "id_image": "moss_3968223"
       }
     ],
-    "hash_code_list_img": "-2100656897"
+    "hash_code_list_img": "1746466584"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/motherhood_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2593,
+    "total": 4713,
+    "index": 2592,
     "id_item": "motherhood_gg_img_4500_it",
     "english": "motherhood",
     "list_mean": [
@@ -2935,12 +2903,12 @@
         "id_image": "motherhood_394438"
       }
     ],
-    "hash_code_list_img": "-493434525"
+    "hash_code_list_img": "1420446297"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mother_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2594,
+    "total": 4713,
+    "index": 2593,
     "id_item": "mother_gg_img_4500_it",
     "english": "mother",
     "list_mean": [
@@ -2962,12 +2930,12 @@
         "id_image": "mother_819074"
       }
     ],
-    "hash_code_list_img": "1327119464"
+    "hash_code_list_img": "866886709"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/motion_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2595,
+    "total": 4713,
+    "index": 2594,
     "id_item": "motion_gg_img_4500_it",
     "english": "motion",
     "list_mean": [
@@ -3005,12 +2973,12 @@
         "id_image": "motion_5775923"
       }
     ],
-    "hash_code_list_img": "550647654"
+    "hash_code_list_img": "816242526"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/motivate_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2596,
+    "total": 4713,
+    "index": 2595,
     "id_item": "motivate_gg_img_4500_it",
     "english": "motivate",
     "list_mean": [
@@ -3047,12 +3015,12 @@
         "id_image": "motivate_6002895"
       }
     ],
-    "hash_code_list_img": "355077294"
+    "hash_code_list_img": "-1969154299"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/motivation_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2597,
+    "total": 4713,
+    "index": 2596,
     "id_item": "motivation_gg_img_4500_it",
     "english": "motivation",
     "list_mean": [
@@ -3079,12 +3047,12 @@
         "id_image": "motivation_418812"
       }
     ],
-    "hash_code_list_img": "-906782275"
+    "hash_code_list_img": "-2096853603"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/motor_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2598,
+    "total": 4713,
+    "index": 2597,
     "id_item": "motor_gg_img_4500_it",
     "english": "motor",
     "list_mean": [
@@ -3116,12 +3084,12 @@
         "id_image": "motor_465048"
       }
     ],
-    "hash_code_list_img": "2026550390"
+    "hash_code_list_img": "-906782275"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mould_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 2599,
+    "total": 4713,
+    "index": 2598,
     "id_item": "mould_gg_img_4500_it",
     "english": "mould",
     "list_mean": [
@@ -3157,6 +3125,40 @@
         "link_thumb": "https://live.staticflickr.com/65535/51809334491_24b429582d_n.jpg",
         "link_img": "https://live.staticflickr.com/65535/51809334491_5edf9156c6_o.png",
         "id_image": "mould_817327"
+      }
+    ],
+    "hash_code_list_img": "2026550390"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mountain_gg_img_4500_it.json",
+    "total": 4713,
+    "index": 2599,
+    "id_item": "mountain_gg_img_4500_it",
+    "english": "mountain",
+    "list_mean": [
+      "dãy núi",
+      "đống lớn",
+      "đống to",
+      "núi"
+    ],
+    "cau_en": "the village is backed by awe-inspiring mountains",
+    "cau_vn": "Ngôi làng được hỗ trợ bởi những ngọn núi đầy kinh ngạc",
+    "hash_code_list_mean": "-659247909",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809689424_ed8b52424c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809689424_334df6faa4_o.png",
+        "id_image": "mountain_183977"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810071315_30e487f666_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810071315_c8e0a653cb_o.png",
+        "id_image": "mountain_661299"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809334261_f37a4b897e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809334261_9ef4c01013_o.png",
+        "id_image": "mountain_661933"
       }
     ],
     "hash_code_list_img": "2001350317"

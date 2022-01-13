@@ -1,39 +1,8 @@
 [
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/write_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 4700,
-    "id_item": "write_gg_img_4500_it",
-    "english": "write",
-    "list_mean": [
-      "viết"
-    ],
-    "cau_en": "files can be read and written directly into the file system",
-    "cau_vn": "Các tệp có thể được đọc và ghi trực tiếp vào hệ thống tệp",
-    "hash_code_list_mean": "112354377",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810068665_2624411487_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810068665_0b4b8a2b55_o.png",
-        "id_image": "write_5511966"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810068775_759eb45cff_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810068775_5c7c121765_o.png",
-        "id_image": "write_705059"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809687049_3da3b6ed9a_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809687049_c3d880e802_o.png",
-        "id_image": "write_878563"
-      }
-    ],
-    "hash_code_list_img": "-1622825933"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/wrong_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 4701,
+    "total": 4713,
+    "index": 4700,
     "id_item": "wrong_gg_img_4500_it",
     "english": "wrong",
     "list_mean": [
@@ -70,12 +39,12 @@
         "id_image": "wrong_5705495"
       }
     ],
-    "hash_code_list_img": "-1522026688"
+    "hash_code_list_img": "-1057426307"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/yard_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 4702,
+    "total": 4713,
+    "index": 4701,
     "id_item": "yard_gg_img_4500_it",
     "english": "yard",
     "list_mean": [
@@ -103,12 +72,12 @@
         "id_image": "yard_5776764"
       }
     ],
-    "hash_code_list_img": "1662444465"
+    "hash_code_list_img": "-1196357522"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/yarn_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 4703,
+    "total": 4713,
+    "index": 4702,
     "id_item": "yarn_gg_img_4500_it",
     "english": "yarn",
     "list_mean": [
@@ -131,12 +100,12 @@
         "id_image": "yarn_588425"
       }
     ],
-    "hash_code_list_img": "-1114288854"
+    "hash_code_list_img": "-1247908921"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/yawn_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 4704,
+    "total": 4713,
+    "index": 4703,
     "id_item": "yawn_gg_img_4500_it",
     "english": "yawn",
     "list_mean": [
@@ -164,12 +133,12 @@
         "id_image": "yawn_5509051"
       }
     ],
-    "hash_code_list_img": "1502911280"
+    "hash_code_list_img": "-2015211936"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/yearbook_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 4705,
+    "total": 4713,
+    "index": 4704,
     "id_item": "yearbook_gg_img_4500_it",
     "english": "yearbook",
     "list_mean": [
@@ -196,12 +165,12 @@
         "id_image": "yearbook_4650656"
       }
     ],
-    "hash_code_list_img": "-2103550163"
+    "hash_code_list_img": "1502911280"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/yogurt_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 4706,
+    "total": 4713,
+    "index": 4705,
     "id_item": "yogurt_gg_img_4500_it",
     "english": "yogurt",
     "list_mean": [
@@ -233,12 +202,12 @@
         "id_image": "yogurt_2934145"
       }
     ],
-    "hash_code_list_img": "-1330305285"
+    "hash_code_list_img": "596156899"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/young_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 4707,
+    "total": 4713,
+    "index": 4706,
     "id_item": "young_gg_img_4500_it",
     "english": "young",
     "list_mean": [
@@ -271,12 +240,12 @@
         "id_image": "young_3576969"
       }
     ],
-    "hash_code_list_img": "-151072104"
+    "hash_code_list_img": "-1696170099"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/youth_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 4708,
+    "total": 4713,
+    "index": 4707,
     "id_item": "youth_gg_img_4500_it",
     "english": "youth",
     "list_mean": [
@@ -304,12 +273,12 @@
         "id_image": "youth_4901028"
       }
     ],
-    "hash_code_list_img": "1355429868"
+    "hash_code_list_img": "-1120420116"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/zany_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 4709,
+    "total": 4713,
+    "index": 4708,
     "id_item": "zany_gg_img_4500_it",
     "english": "zany",
     "list_mean": [
@@ -343,12 +312,12 @@
         "id_image": "zany_3508752"
       }
     ],
-    "hash_code_list_img": "1695903638"
+    "hash_code_list_img": "-625067524"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/zigzag_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 4710,
+    "total": 4713,
+    "index": 4709,
     "id_item": "zigzag_gg_img_4500_it",
     "english": "zigzag",
     "list_mean": [
@@ -364,12 +333,12 @@
         "id_image": "zigzag_1655263"
       }
     ],
-    "hash_code_list_img": "573819615"
+    "hash_code_list_img": "1167066047"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/zone_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 4711,
+    "total": 4713,
+    "index": 4710,
     "id_item": "zone_gg_img_4500_it",
     "english": "zone",
     "list_mean": [
@@ -386,12 +355,12 @@
         "id_image": "zone_2191451"
       }
     ],
-    "hash_code_list_img": "1744523332"
+    "hash_code_list_img": "221402423"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/zoom_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 4712,
+    "total": 4713,
+    "index": 4711,
     "id_item": "zoom_gg_img_4500_it",
     "english": "zoom",
     "list_mean": [
@@ -417,12 +386,12 @@
         "id_image": "zoom_4463647"
       }
     ],
-    "hash_code_list_img": "8622334"
+    "hash_code_list_img": "368198777"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/zoo_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 4713,
+    "total": 4713,
+    "index": 4712,
     "id_item": "zoo_gg_img_4500_it",
     "english": "zoo",
     "list_mean": [
@@ -443,6 +412,6 @@
         "id_image": "zoo_848571"
       }
     ],
-    "hash_code_list_img": "1475339902"
+    "hash_code_list_img": "-1696816280"
   }
 ]

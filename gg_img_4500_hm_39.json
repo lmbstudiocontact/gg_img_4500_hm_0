@@ -1,34 +1,8 @@
 [
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/snorkel_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3900,
-    "id_item": "snorkel_gg_img_4500_it",
-    "english": "snorkel",
-    "list_mean": [
-      "ống thông hơi"
-    ],
-    "cau_en": "bring a snorkel and flippers to explore the offshore reef",
-    "cau_vn": "Mang theo một ống thở và chân chèo để khám phá rạn san hô ngoài khơi",
-    "hash_code_list_mean": "-1365163218",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809329121_9cddb5c076_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809329121_ac81d4ed5d_o.png",
-        "id_image": "snorkel_1923030"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810065905_66374223b9_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810065905_91f4c03677_o.png",
-        "id_image": "snorkel_5015734"
-      }
-    ],
-    "hash_code_list_img": "-307126734"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/snowball_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3901,
+    "total": 4713,
+    "index": 3900,
     "id_item": "snowball_gg_img_4500_it",
     "english": "snowball",
     "list_mean": [
@@ -51,12 +25,12 @@
         "id_image": "snowball_2370507"
       }
     ],
-    "hash_code_list_img": "-1700356754"
+    "hash_code_list_img": "1171109700"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/snowfall_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3902,
+    "total": 4713,
+    "index": 3901,
     "id_item": "snowfall_gg_img_4500_it",
     "english": "snowfall",
     "list_mean": [
@@ -82,12 +56,12 @@
         "id_image": "snowfall_6400754"
       }
     ],
-    "hash_code_list_img": "-2072761364"
+    "hash_code_list_img": "1839938310"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/snowmobile_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3903,
+    "total": 4713,
+    "index": 3902,
     "id_item": "snowmobile_gg_img_4500_it",
     "english": "snowmobile",
     "list_mean": [
@@ -113,12 +87,12 @@
         "id_image": "snowmobile_661937"
       }
     ],
-    "hash_code_list_img": "718083295"
+    "hash_code_list_img": "-2072761364"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/snowy_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3904,
+    "total": 4713,
+    "index": 3903,
     "id_item": "snowy_gg_img_4500_it",
     "english": "snowy",
     "list_mean": [
@@ -144,12 +118,12 @@
         "id_image": "snowy_661286"
       }
     ],
-    "hash_code_list_img": "-503605562"
+    "hash_code_list_img": "718083295"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/snow_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3905,
+    "total": 4713,
+    "index": 3904,
     "id_item": "snow_gg_img_4500_it",
     "english": "snow",
     "list_mean": [
@@ -176,12 +150,12 @@
         "id_image": "snow_4727668"
       }
     ],
-    "hash_code_list_img": "-346724527"
+    "hash_code_list_img": "-503605562"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/snuggle_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3906,
+    "total": 4713,
+    "index": 3905,
     "id_item": "snuggle_gg_img_4500_it",
     "english": "snuggle",
     "list_mean": [
@@ -204,12 +178,12 @@
         "id_image": "snuggle_661315"
       }
     ],
-    "hash_code_list_img": "-128446652"
+    "hash_code_list_img": "946015195"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/soak_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3907,
+    "total": 4713,
+    "index": 3906,
     "id_item": "soak_gg_img_4500_it",
     "english": "soak",
     "list_mean": [
@@ -241,12 +215,12 @@
         "id_image": "soak_3953731"
       }
     ],
-    "hash_code_list_img": "-356336231"
+    "hash_code_list_img": "-1781484370"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/soap_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3908,
+    "total": 4713,
+    "index": 3907,
     "id_item": "soap_gg_img_4500_it",
     "english": "soap",
     "list_mean": [
@@ -272,12 +246,12 @@
         "id_image": "soap_577987"
       }
     ],
-    "hash_code_list_img": "1412812977"
+    "hash_code_list_img": "-356336231"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/social_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3909,
+    "total": 4713,
+    "index": 3908,
     "id_item": "social_gg_img_4500_it",
     "english": "social",
     "list_mean": [
@@ -299,12 +273,12 @@
         "id_image": "social_992641"
       }
     ],
-    "hash_code_list_img": "-1558593950"
+    "hash_code_list_img": "1110431717"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/society_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3910,
+    "total": 4713,
+    "index": 3909,
     "id_item": "society_gg_img_4500_it",
     "english": "society",
     "list_mean": [
@@ -327,12 +301,12 @@
         "id_image": "society_6193871"
       }
     ],
-    "hash_code_list_img": "-1471831295"
+    "hash_code_list_img": "430467901"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/socket_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3911,
+    "total": 4713,
+    "index": 3910,
     "id_item": "socket_gg_img_4500_it",
     "english": "socket",
     "list_mean": [
@@ -356,12 +330,12 @@
         "id_image": "socket_403151"
       }
     ],
-    "hash_code_list_img": "-617308387"
+    "hash_code_list_img": "299703050"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/sock_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3912,
+    "total": 4713,
+    "index": 3911,
     "id_item": "sock_gg_img_4500_it",
     "english": "sock",
     "list_mean": [
@@ -378,12 +352,12 @@
         "id_image": "sock_412005"
       }
     ],
-    "hash_code_list_img": "762708805"
+    "hash_code_list_img": "1884982747"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/sofa_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3913,
+    "total": 4713,
+    "index": 3912,
     "id_item": "sofa_gg_img_4500_it",
     "english": "sofa",
     "list_mean": [
@@ -400,12 +374,12 @@
         "id_image": "sofa_603393"
       }
     ],
-    "hash_code_list_img": "166022264"
+    "hash_code_list_img": "1081253664"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/soft_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3914,
+    "total": 4713,
+    "index": 3913,
     "id_item": "soft_gg_img_4500_it",
     "english": "soft",
     "list_mean": [
@@ -430,12 +404,12 @@
         "id_image": "soft_5376707"
       }
     ],
-    "hash_code_list_img": "-1545777927"
+    "hash_code_list_img": "-896666550"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/soil_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3915,
+    "total": 4713,
+    "index": 3914,
     "id_item": "soil_gg_img_4500_it",
     "english": "soil",
     "list_mean": [
@@ -466,12 +440,12 @@
         "id_image": "soil_5016674"
       }
     ],
-    "hash_code_list_img": "-1894247626"
+    "hash_code_list_img": "-912173136"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/solar_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3916,
+    "total": 4713,
+    "index": 3915,
     "id_item": "solar_gg_img_4500_it",
     "english": "solar",
     "list_mean": [
@@ -497,12 +471,12 @@
         "id_image": "solar_804562"
       }
     ],
-    "hash_code_list_img": "543564920"
+    "hash_code_list_img": "-1894247626"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/solder_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3917,
+    "total": 4713,
+    "index": 3916,
     "id_item": "solder_gg_img_4500_it",
     "english": "solder",
     "list_mean": [
@@ -532,12 +506,12 @@
         "id_image": "solder_471759"
       }
     ],
-    "hash_code_list_img": "1893807904"
+    "hash_code_list_img": "543564920"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/soldier_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3918,
+    "total": 4713,
+    "index": 3917,
     "id_item": "soldier_gg_img_4500_it",
     "english": "soldier",
     "list_mean": [
@@ -564,12 +538,12 @@
         "id_image": "soldier_875294"
       }
     ],
-    "hash_code_list_img": "876743589"
+    "hash_code_list_img": "1893807904"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/sole_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3919,
+    "total": 4713,
+    "index": 3918,
     "id_item": "sole_gg_img_4500_it",
     "english": "sole",
     "list_mean": [
@@ -596,12 +570,12 @@
         "id_image": "sole_5730160"
       }
     ],
-    "hash_code_list_img": "1738444183"
+    "hash_code_list_img": "413670494"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/solidarity_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3920,
+    "total": 4713,
+    "index": 3919,
     "id_item": "solidarity_gg_img_4500_it",
     "english": "solidarity",
     "list_mean": [
@@ -628,12 +602,12 @@
         "id_image": "solidarity_5208472"
       }
     ],
-    "hash_code_list_img": "-862700066"
+    "hash_code_list_img": "1078957496"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/solitaire_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3921,
+    "total": 4713,
+    "index": 3920,
     "id_item": "solitaire_gg_img_4500_it",
     "english": "solitaire",
     "list_mean": [
@@ -650,12 +624,12 @@
         "id_image": "solitaire_1707249"
       }
     ],
-    "hash_code_list_img": "1368251738"
+    "hash_code_list_img": "1024240702"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/solution_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3922,
+    "total": 4713,
+    "index": 3921,
     "id_item": "solution_gg_img_4500_it",
     "english": "solution",
     "list_mean": [
@@ -684,12 +658,12 @@
         "id_image": "solution_536921"
       }
     ],
-    "hash_code_list_img": "1058761437"
+    "hash_code_list_img": "-1312699270"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/solve_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3923,
+    "total": 4713,
+    "index": 3922,
     "id_item": "solve_gg_img_4500_it",
     "english": "solve",
     "list_mean": [
@@ -712,12 +686,12 @@
         "id_image": "solve_2191253"
       }
     ],
-    "hash_code_list_img": "-1449356808"
+    "hash_code_list_img": "-1944827252"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/soprano_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3924,
+    "total": 4713,
+    "index": 3923,
     "id_item": "soprano_gg_img_4500_it",
     "english": "soprano",
     "list_mean": [
@@ -733,12 +707,12 @@
         "id_image": "soprano_320488"
       }
     ],
-    "hash_code_list_img": "763755395"
+    "hash_code_list_img": "1218864136"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/sore_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3925,
+    "total": 4713,
+    "index": 3924,
     "id_item": "sore_gg_img_4500_it",
     "english": "sore",
     "list_mean": [
@@ -761,12 +735,12 @@
         "id_image": "sore_5726797"
       }
     ],
-    "hash_code_list_img": "1447521333"
+    "hash_code_list_img": "2004683746"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/sorrow_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3926,
+    "total": 4713,
+    "index": 3925,
     "id_item": "sorrow_gg_img_4500_it",
     "english": "sorrow",
     "list_mean": [
@@ -786,12 +760,12 @@
         "id_image": "sorrow_5664187"
       }
     ],
-    "hash_code_list_img": "1232819757"
+    "hash_code_list_img": "829956537"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/sorry_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3927,
+    "total": 4713,
+    "index": 3926,
     "id_item": "sorry_gg_img_4500_it",
     "english": "sorry",
     "list_mean": [
@@ -825,12 +799,12 @@
         "id_image": "sorry_5906113"
       }
     ],
-    "hash_code_list_img": "551165134"
+    "hash_code_list_img": "-1665419729"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/sort_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3928,
+    "total": 4713,
+    "index": 3927,
     "id_item": "sort_gg_img_4500_it",
     "english": "sort",
     "list_mean": [
@@ -856,12 +830,12 @@
         "id_image": "sort_4828897"
       }
     ],
-    "hash_code_list_img": "2084742952"
+    "hash_code_list_img": "-1884325717"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/soul_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3929,
+    "total": 4713,
+    "index": 3928,
     "id_item": "soul_gg_img_4500_it",
     "english": "soul",
     "list_mean": [
@@ -889,12 +863,12 @@
         "id_image": "soul_4656867"
       }
     ],
-    "hash_code_list_img": "-641933690"
+    "hash_code_list_img": "451776263"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/soundtrack_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3930,
+    "total": 4713,
+    "index": 3929,
     "id_item": "soundtrack_gg_img_4500_it",
     "english": "soundtrack",
     "list_mean": [
@@ -921,12 +895,12 @@
         "id_image": "soundtrack_4133247"
       }
     ],
-    "hash_code_list_img": "345157420"
+    "hash_code_list_img": "-641933690"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/sound_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3931,
+    "total": 4713,
+    "index": 3930,
     "id_item": "sound_gg_img_4500_it",
     "english": "sound",
     "list_mean": [
@@ -966,12 +940,12 @@
         "id_image": "sound_316553"
       }
     ],
-    "hash_code_list_img": "-1586184541"
+    "hash_code_list_img": "345157420"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/soup_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3932,
+    "total": 4713,
+    "index": 3931,
     "id_item": "soup_gg_img_4500_it",
     "english": "soup",
     "list_mean": [
@@ -998,12 +972,12 @@
         "id_image": "soup_570729"
       }
     ],
-    "hash_code_list_img": "1588572742"
+    "hash_code_list_img": "-1586184541"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/source_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3933,
+    "total": 4713,
+    "index": 3932,
     "id_item": "source_gg_img_4500_it",
     "english": "source",
     "list_mean": [
@@ -1025,12 +999,12 @@
         "id_image": "source_3966885"
       }
     ],
-    "hash_code_list_img": "1680769942"
+    "hash_code_list_img": "-794692874"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/souvenir_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3934,
+    "total": 4713,
+    "index": 3933,
     "id_item": "souvenir_gg_img_4500_it",
     "english": "souvenir",
     "list_mean": [
@@ -1057,12 +1031,12 @@
         "id_image": "souvenir_614716"
       }
     ],
-    "hash_code_list_img": "-1235641104"
+    "hash_code_list_img": "126520240"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/sow_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3935,
+    "total": 4713,
+    "index": 3934,
     "id_item": "sow_gg_img_4500_it",
     "english": "sow",
     "list_mean": [
@@ -1085,12 +1059,12 @@
         "id_image": "sow_6041419"
       }
     ],
-    "hash_code_list_img": "24935815"
+    "hash_code_list_img": "-65237728"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/space_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3936,
+    "total": 4713,
+    "index": 3935,
     "id_item": "space_gg_img_4500_it",
     "english": "space",
     "list_mean": [
@@ -1129,12 +1103,12 @@
         "id_image": "space_749500"
       }
     ],
-    "hash_code_list_img": "2077518728"
+    "hash_code_list_img": "834894628"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spade_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3937,
+    "total": 4713,
+    "index": 3936,
     "id_item": "spade_gg_img_4500_it",
     "english": "spade",
     "list_mean": [
@@ -1162,12 +1136,12 @@
         "id_image": "spade_664114"
       }
     ],
-    "hash_code_list_img": "-2019296246"
+    "hash_code_list_img": "-1256533057"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spare_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3938,
+    "total": 4713,
+    "index": 3937,
     "id_item": "spare_gg_img_4500_it",
     "english": "spare",
     "list_mean": [
@@ -1198,12 +1172,12 @@
         "id_image": "spare_5613201"
       }
     ],
-    "hash_code_list_img": "-2097041650"
+    "hash_code_list_img": "-1751969440"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/sparkle_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3939,
+    "total": 4713,
+    "index": 3938,
     "id_item": "sparkle_gg_img_4500_it",
     "english": "sparkle",
     "list_mean": [
@@ -1228,12 +1202,12 @@
         "id_image": "sparkle_2519211"
       }
     ],
-    "hash_code_list_img": "51949362"
+    "hash_code_list_img": "-1340627957"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spark_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3940,
+    "total": 4713,
+    "index": 3939,
     "id_item": "spark_gg_img_4500_it",
     "english": "spark",
     "list_mean": [
@@ -1259,12 +1233,12 @@
         "id_image": "spark_290139"
       }
     ],
-    "hash_code_list_img": "-1263596419"
+    "hash_code_list_img": "1709760137"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spatial_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3941,
+    "total": 4713,
+    "index": 3940,
     "id_item": "spatial_gg_img_4500_it",
     "english": "spatial",
     "list_mean": [
@@ -1280,12 +1254,12 @@
         "id_image": "spatial_5105547"
       }
     ],
-    "hash_code_list_img": "438092162"
+    "hash_code_list_img": "1930842713"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spay_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3942,
+    "total": 4713,
+    "index": 3941,
     "id_item": "spay_gg_img_4500_it",
     "english": "spay",
     "list_mean": [
@@ -1302,12 +1276,12 @@
         "id_image": "spay_2904474"
       }
     ],
-    "hash_code_list_img": "1532676023"
+    "hash_code_list_img": "866474999"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/speaker_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3943,
+    "total": 4713,
+    "index": 3942,
     "id_item": "speaker_gg_img_4500_it",
     "english": "speaker",
     "list_mean": [
@@ -1329,12 +1303,12 @@
         "id_image": "speaker_422509"
       }
     ],
-    "hash_code_list_img": "1110981839"
+    "hash_code_list_img": "1940449715"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/speak_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3944,
+    "total": 4713,
+    "index": 3943,
     "id_item": "speak_gg_img_4500_it",
     "english": "speak",
     "list_mean": [
@@ -1357,12 +1331,12 @@
         "id_image": "speak_4462909"
       }
     ],
-    "hash_code_list_img": "1630267700"
+    "hash_code_list_img": "-2066336170"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spear_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3945,
+    "total": 4713,
+    "index": 3944,
     "id_item": "spear_gg_img_4500_it",
     "english": "spear",
     "list_mean": [
@@ -1390,12 +1364,12 @@
         "id_image": "spear_506947"
       }
     ],
-    "hash_code_list_img": "1735980420"
+    "hash_code_list_img": "-163042686"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/specialist_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3946,
+    "total": 4713,
+    "index": 3945,
     "id_item": "specialist_gg_img_4500_it",
     "english": "specialist",
     "list_mean": [
@@ -1416,12 +1390,12 @@
         "id_image": "specialist_5029176"
       }
     ],
-    "hash_code_list_img": "163398445"
+    "hash_code_list_img": "-111852334"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/specialization_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3947,
+    "total": 4713,
+    "index": 3946,
     "id_item": "specialization_gg_img_4500_it",
     "english": "specialization",
     "list_mean": [
@@ -1437,12 +1411,12 @@
         "id_image": "specialization_6203361"
       }
     ],
-    "hash_code_list_img": "1457352473"
+    "hash_code_list_img": "908435509"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/special_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3948,
+    "total": 4713,
+    "index": 3947,
     "id_item": "special_gg_img_4500_it",
     "english": "special",
     "list_mean": [
@@ -1468,12 +1442,12 @@
         "id_image": "special_3125061"
       }
     ],
-    "hash_code_list_img": "1815302789"
+    "hash_code_list_img": "163398445"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/specification_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3949,
+    "total": 4713,
+    "index": 3948,
     "id_item": "specification_gg_img_4500_it",
     "english": "specification",
     "list_mean": [
@@ -1506,12 +1480,12 @@
         "id_image": "specification_4727035"
       }
     ],
-    "hash_code_list_img": "-1682408740"
+    "hash_code_list_img": "-875104778"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spectator_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3950,
+    "total": 4713,
+    "index": 3949,
     "id_item": "spectator_gg_img_4500_it",
     "english": "spectator",
     "list_mean": [
@@ -1539,12 +1513,12 @@
         "id_image": "spectator_4016317"
       }
     ],
-    "hash_code_list_img": "-1752351673"
+    "hash_code_list_img": "-77439347"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spectrum_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3951,
+    "total": 4713,
+    "index": 3950,
     "id_item": "spectrum_gg_img_4500_it",
     "english": "spectrum",
     "list_mean": [
@@ -1560,12 +1534,12 @@
         "id_image": "spectrum_2285024"
       }
     ],
-    "hash_code_list_img": "855206873"
+    "hash_code_list_img": "1924411683"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/speculation_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3952,
+    "total": 4713,
+    "index": 3951,
     "id_item": "speculation_gg_img_4500_it",
     "english": "speculation",
     "list_mean": [
@@ -1584,12 +1558,12 @@
         "id_image": "speculation_5116030"
       }
     ],
-    "hash_code_list_img": "1628848399"
+    "hash_code_list_img": "236002459"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/speech_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3953,
+    "total": 4713,
+    "index": 3952,
     "id_item": "speech_gg_img_4500_it",
     "english": "speech",
     "list_mean": [
@@ -1616,12 +1590,12 @@
         "id_image": "speech_696395"
       }
     ],
-    "hash_code_list_img": "-538783396"
+    "hash_code_list_img": "-803775051"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/speedster_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3954,
+    "total": 4713,
+    "index": 3953,
     "id_item": "speedster_gg_img_4500_it",
     "english": "speedster",
     "list_mean": [
@@ -1637,12 +1611,12 @@
         "id_image": "speedster_2453720"
       }
     ],
-    "hash_code_list_img": "1928028703"
+    "hash_code_list_img": "1742885489"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spell_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3955,
+    "total": 4713,
+    "index": 3954,
     "id_item": "spell_gg_img_4500_it",
     "english": "spell",
     "list_mean": [
@@ -1676,12 +1650,12 @@
         "id_image": "spell_5345565"
       }
     ],
-    "hash_code_list_img": "-495849921"
+    "hash_code_list_img": "1963680916"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/sphere_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3956,
+    "total": 4713,
+    "index": 3955,
     "id_item": "sphere_gg_img_4500_it",
     "english": "sphere",
     "list_mean": [
@@ -1708,12 +1682,12 @@
         "id_image": "sphere_6181372"
       }
     ],
-    "hash_code_list_img": "1609790070"
+    "hash_code_list_img": "-495849921"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spice_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3957,
+    "total": 4713,
+    "index": 3956,
     "id_item": "spice_gg_img_4500_it",
     "english": "spice",
     "list_mean": [
@@ -1746,12 +1720,12 @@
         "id_image": "spice_5495595"
       }
     ],
-    "hash_code_list_img": "1899002712"
+    "hash_code_list_img": "-381090665"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spicy_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3958,
+    "total": 4713,
+    "index": 3957,
     "id_item": "spicy_gg_img_4500_it",
     "english": "spicy",
     "list_mean": [
@@ -1781,12 +1755,12 @@
         "id_image": "spicy_5495572"
       }
     ],
-    "hash_code_list_img": "807278418"
+    "hash_code_list_img": "1147076515"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spiderweb_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3959,
+    "total": 4713,
+    "index": 3958,
     "id_item": "spiderweb_gg_img_4500_it",
     "english": "spiderweb",
     "list_mean": [
@@ -1812,12 +1786,12 @@
         "id_image": "spiderweb_5118213"
       }
     ],
-    "hash_code_list_img": "454712549"
+    "hash_code_list_img": "807278418"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spider_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3960,
+    "total": 4713,
+    "index": 3959,
     "id_item": "spider_gg_img_4500_it",
     "english": "spider",
     "list_mean": [
@@ -1838,12 +1812,12 @@
         "id_image": "spider_218321"
       }
     ],
-    "hash_code_list_img": "1645548330"
+    "hash_code_list_img": "1642968545"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spike_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3961,
+    "total": 4713,
+    "index": 3960,
     "id_item": "spike_gg_img_4500_it",
     "english": "spike",
     "list_mean": [
@@ -1863,12 +1837,12 @@
         "id_image": "spike_5029618"
       }
     ],
-    "hash_code_list_img": "1157484123"
+    "hash_code_list_img": "1062295237"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spill_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3962,
+    "total": 4713,
+    "index": 3961,
     "id_item": "spill_gg_img_4500_it",
     "english": "spill",
     "list_mean": [
@@ -1888,12 +1862,12 @@
         "id_image": "spill_5091318"
       }
     ],
-    "hash_code_list_img": "1898730626"
+    "hash_code_list_img": "1925044198"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spinal_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3963,
+    "total": 4713,
+    "index": 3962,
     "id_item": "spinal_gg_img_4500_it",
     "english": "spinal",
     "list_mean": [
@@ -1909,12 +1883,12 @@
         "id_image": "spinal_1823747"
       }
     ],
-    "hash_code_list_img": "1832101517"
+    "hash_code_list_img": "2098720367"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spindle_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3964,
+    "total": 4713,
+    "index": 3963,
     "id_item": "spindle_gg_img_4500_it",
     "english": "spindle",
     "list_mean": [
@@ -1932,12 +1906,12 @@
         "id_image": "spindle_2614687"
       }
     ],
-    "hash_code_list_img": "789885205"
+    "hash_code_list_img": "1157484123"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spine_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3965,
+    "total": 4713,
+    "index": 3964,
     "id_item": "spine_gg_img_4500_it",
     "english": "spine",
     "list_mean": [
@@ -1962,12 +1936,12 @@
         "id_image": "spine_4892388"
       }
     ],
-    "hash_code_list_img": "-952258022"
+    "hash_code_list_img": "563208748"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spin_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3966,
+    "total": 4713,
+    "index": 3965,
     "id_item": "spin_gg_img_4500_it",
     "english": "spin",
     "list_mean": [
@@ -1992,12 +1966,12 @@
         "id_image": "spin_2473177"
       }
     ],
-    "hash_code_list_img": "-517357330"
+    "hash_code_list_img": "-1187809135"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spiral_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3967,
+    "total": 4713,
+    "index": 3966,
     "id_item": "spiral_gg_img_4500_it",
     "english": "spiral",
     "list_mean": [
@@ -2024,12 +1998,12 @@
         "id_image": "spiral_6365773"
       }
     ],
-    "hash_code_list_img": "-1860794927"
+    "hash_code_list_img": "125196907"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spirituality_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3968,
+    "total": 4713,
+    "index": 3967,
     "id_item": "spirituality_gg_img_4500_it",
     "english": "spirituality",
     "list_mean": [
@@ -2052,12 +2026,12 @@
         "id_image": "spirit_2210185"
       }
     ],
-    "hash_code_list_img": "-359980086"
+    "hash_code_list_img": "-622868471"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spiritual_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3969,
+    "total": 4713,
+    "index": 3968,
     "id_item": "spiritual_gg_img_4500_it",
     "english": "spiritual",
     "list_mean": [
@@ -2085,12 +2059,12 @@
         "id_image": "spiritual_5100568"
       }
     ],
-    "hash_code_list_img": "-522038539"
+    "hash_code_list_img": "-261580126"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spirit_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3970,
+    "total": 4713,
+    "index": 3969,
     "id_item": "spirit_gg_img_4500_it",
     "english": "spirit",
     "list_mean": [
@@ -2124,12 +2098,12 @@
         "id_image": "spirit_861636"
       }
     ],
-    "hash_code_list_img": "-918049741"
+    "hash_code_list_img": "-522038539"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spit_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3971,
+    "total": 4713,
+    "index": 3970,
     "id_item": "spit_gg_img_4500_it",
     "english": "spit",
     "list_mean": [
@@ -2153,12 +2127,12 @@
         "id_image": "spit_5772889"
       }
     ],
-    "hash_code_list_img": "1720760857"
+    "hash_code_list_img": "1857852818"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/splash_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3972,
+    "total": 4713,
+    "index": 3971,
     "id_item": "splash_gg_img_4500_it",
     "english": "splash",
     "list_mean": [
@@ -2190,12 +2164,12 @@
         "id_image": "splash_4534952"
       }
     ],
-    "hash_code_list_img": "-1794914225"
+    "hash_code_list_img": "981294936"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spleen_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3973,
+    "total": 4713,
+    "index": 3972,
     "id_item": "spleen_gg_img_4500_it",
     "english": "spleen",
     "list_mean": [
@@ -2219,12 +2193,12 @@
         "id_image": "spleen_6147908"
       }
     ],
-    "hash_code_list_img": "-1108967901"
+    "hash_code_list_img": "1852125466"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/splinter_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3974,
+    "total": 4713,
+    "index": 3973,
     "id_item": "splinter_gg_img_4500_it",
     "english": "splinter",
     "list_mean": [
@@ -2244,12 +2218,12 @@
         "id_image": "splinter_1507235"
       }
     ],
-    "hash_code_list_img": "1169015730"
+    "hash_code_list_img": "918738504"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/splint_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3975,
+    "total": 4713,
+    "index": 3974,
     "id_item": "splint_gg_img_4500_it",
     "english": "splint",
     "list_mean": [
@@ -2276,12 +2250,12 @@
         "id_image": "splint_6408760"
       }
     ],
-    "hash_code_list_img": "-515018322"
+    "hash_code_list_img": "1150749136"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/split_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3976,
+    "total": 4713,
+    "index": 3975,
     "id_item": "split_gg_img_4500_it",
     "english": "split",
     "list_mean": [
@@ -2319,12 +2293,12 @@
         "id_image": "split_868666"
       }
     ],
-    "hash_code_list_img": "436553586"
+    "hash_code_list_img": "-515018322"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/sponge_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3977,
+    "total": 4713,
+    "index": 3976,
     "id_item": "sponge_gg_img_4500_it",
     "english": "sponge",
     "list_mean": [
@@ -2355,12 +2329,12 @@
         "id_image": "sponge_5732176"
       }
     ],
-    "hash_code_list_img": "767544312"
+    "hash_code_list_img": "436553586"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/sponsor_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3978,
+    "total": 4713,
+    "index": 3977,
     "id_item": "sponsor_gg_img_4500_it",
     "english": "sponsor",
     "list_mean": [
@@ -2384,12 +2358,12 @@
         "id_image": "sponsor_950592"
       }
     ],
-    "hash_code_list_img": "1618412519"
+    "hash_code_list_img": "1202802905"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spooky_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3979,
+    "total": 4713,
+    "index": 3978,
     "id_item": "spooky_gg_img_4500_it",
     "english": "spooky",
     "list_mean": [
@@ -2415,12 +2389,12 @@
         "id_image": "spooky_5509026"
       }
     ],
-    "hash_code_list_img": "-1332789491"
+    "hash_code_list_img": "704957942"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spool_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3980,
+    "total": 4713,
+    "index": 3979,
     "id_item": "spool_gg_img_4500_it",
     "english": "spool",
     "list_mean": [
@@ -2442,12 +2416,12 @@
         "id_image": "spool_5330710"
       }
     ],
-    "hash_code_list_img": "-1631255895"
+    "hash_code_list_img": "-1991730452"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spoonful_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3981,
+    "total": 4713,
+    "index": 3980,
     "id_item": "spoonful_gg_img_4500_it",
     "english": "spoonful",
     "list_mean": [
@@ -2463,12 +2437,12 @@
         "id_image": "spoonful_1863686"
       }
     ],
-    "hash_code_list_img": "312629370"
+    "hash_code_list_img": "281312408"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spoon_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3982,
+    "total": 4713,
+    "index": 3981,
     "id_item": "spoon_gg_img_4500_it",
     "english": "spoon",
     "list_mean": [
@@ -2493,12 +2467,12 @@
         "id_image": "spoon_265400"
       }
     ],
-    "hash_code_list_img": "1170169845"
+    "hash_code_list_img": "-1631255895"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/sport_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3983,
+    "total": 4713,
+    "index": 3982,
     "id_item": "sport_gg_img_4500_it",
     "english": "sport",
     "list_mean": [
@@ -2531,12 +2505,12 @@
         "id_image": "sport_6183790"
       }
     ],
-    "hash_code_list_img": "471147615"
+    "hash_code_list_img": "959282734"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spot_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3984,
+    "total": 4713,
+    "index": 3983,
     "id_item": "spot_gg_img_4500_it",
     "english": "spot",
     "list_mean": [
@@ -2565,12 +2539,12 @@
         "id_image": "spot_518982"
       }
     ],
-    "hash_code_list_img": "1499992031"
+    "hash_code_list_img": "1930721720"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spray_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3985,
+    "total": 4713,
+    "index": 3984,
     "id_item": "spray_gg_img_4500_it",
     "english": "spray",
     "list_mean": [
@@ -2596,12 +2570,12 @@
         "id_image": "spray_529491"
       }
     ],
-    "hash_code_list_img": "337442781"
+    "hash_code_list_img": "-504406535"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spread_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3986,
+    "total": 4713,
+    "index": 3985,
     "id_item": "spread_gg_img_4500_it",
     "english": "spread",
     "list_mean": [
@@ -2636,12 +2610,12 @@
         "id_image": "spread_2746312"
       }
     ],
-    "hash_code_list_img": "-363055283"
+    "hash_code_list_img": "-1333740701"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/springtime_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3987,
+    "total": 4713,
+    "index": 3986,
     "id_item": "springtime_gg_img_4500_it",
     "english": "springtime",
     "list_mean": [
@@ -2672,12 +2646,12 @@
         "id_image": "spring_4433190"
       }
     ],
-    "hash_code_list_img": "1802911431"
+    "hash_code_list_img": "551074182"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/sprinkle_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3988,
+    "total": 4713,
+    "index": 3987,
     "id_item": "sprinkle_gg_img_4500_it",
     "english": "sprinkle",
     "list_mean": [
@@ -2706,12 +2680,12 @@
         "id_image": "sprinkle_995890"
       }
     ],
-    "hash_code_list_img": "-1424826966"
+    "hash_code_list_img": "-106265087"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/sprint_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3989,
+    "total": 4713,
+    "index": 3988,
     "id_item": "sprint_gg_img_4500_it",
     "english": "sprint",
     "list_mean": [
@@ -2738,12 +2712,12 @@
         "id_image": "sprint_3965798"
       }
     ],
-    "hash_code_list_img": "-562650466"
+    "hash_code_list_img": "-1424826966"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/sprout_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3990,
+    "total": 4713,
+    "index": 3989,
     "id_item": "sprout_gg_img_4500_it",
     "english": "sprout",
     "list_mean": [
@@ -2773,12 +2747,12 @@
         "id_image": "sprout_649154"
       }
     ],
-    "hash_code_list_img": "-1433857709"
+    "hash_code_list_img": "-562650466"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spruce_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3991,
+    "total": 4713,
+    "index": 3990,
     "id_item": "spruce_gg_img_4500_it",
     "english": "spruce",
     "list_mean": [
@@ -2804,12 +2778,12 @@
         "id_image": "spruce_6236538"
       }
     ],
-    "hash_code_list_img": "1371587465"
+    "hash_code_list_img": "1029322546"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spur_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3992,
+    "total": 4713,
+    "index": 3991,
     "id_item": "spur_gg_img_4500_it",
     "english": "spur",
     "list_mean": [
@@ -2833,12 +2807,12 @@
         "id_image": "spur_996889"
       }
     ],
-    "hash_code_list_img": "-1594745072"
+    "hash_code_list_img": "-1006906937"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/spy_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3993,
+    "total": 4713,
+    "index": 3992,
     "id_item": "spy_gg_img_4500_it",
     "english": "spy",
     "list_mean": [
@@ -2865,12 +2839,12 @@
         "id_image": "spy_617033"
       }
     ],
-    "hash_code_list_img": "83805503"
+    "hash_code_list_img": "-1457649407"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/squad_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3994,
+    "total": 4713,
+    "index": 3993,
     "id_item": "squad_gg_img_4500_it",
     "english": "squad",
     "list_mean": [
@@ -2888,12 +2862,12 @@
         "id_image": "squad_1485088"
       }
     ],
-    "hash_code_list_img": "844264605"
+    "hash_code_list_img": "52642963"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/square_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3995,
+    "total": 4713,
+    "index": 3994,
     "id_item": "square_gg_img_4500_it",
     "english": "square",
     "list_mean": [
@@ -2935,12 +2909,12 @@
         "id_image": "square_6006398"
       }
     ],
-    "hash_code_list_img": "737252132"
+    "hash_code_list_img": "-1476150031"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/squash_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3996,
+    "total": 4713,
+    "index": 3995,
     "id_item": "squash_gg_img_4500_it",
     "english": "squash",
     "list_mean": [
@@ -2974,12 +2948,12 @@
         "id_image": "squash_2690179"
       }
     ],
-    "hash_code_list_img": "-2142073268"
+    "hash_code_list_img": "737252132"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/squat_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3997,
+    "total": 4713,
+    "index": 3996,
     "id_item": "squat_gg_img_4500_it",
     "english": "squat",
     "list_mean": [
@@ -3010,12 +2984,12 @@
         "id_image": "squat_3476385"
       }
     ],
-    "hash_code_list_img": "669835335"
+    "hash_code_list_img": "-2142073268"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/squeegee_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3998,
+    "total": 4713,
+    "index": 3997,
     "id_item": "squeegee_gg_img_4500_it",
     "english": "squeegee",
     "list_mean": [
@@ -3042,12 +3016,12 @@
         "id_image": "squeegee_6419664"
       }
     ],
-    "hash_code_list_img": "272394624"
+    "hash_code_list_img": "669835335"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/squeeze_gg_img_4500_it.json",
-    "total": 4714,
-    "index": 3999,
+    "total": 4713,
+    "index": 3998,
     "id_item": "squeeze_gg_img_4500_it",
     "english": "squeeze",
     "list_mean": [
@@ -3074,6 +3048,37 @@
         "id_image": "squeeze_525798"
       }
     ],
-    "hash_code_list_img": "433697326"
+    "hash_code_list_img": "1096888189"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/squirrel_gg_img_4500_it.json",
+    "total": 4713,
+    "index": 3999,
+    "id_item": "squirrel_gg_img_4500_it",
+    "english": "squirrel",
+    "list_mean": [
+      "con sóc"
+    ],
+    "cau_en": "they were squirreling around in the woods in search of something",
+    "cau_vn": "họ đang nhìn xung quanh trong rừng để tìm kiếm một cái gì đó",
+    "hash_code_list_mean": "-644457317",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809465738_1b10eb4eec_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809465738_424de29af8_o.png",
+        "id_image": "squirrel_1588876"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809351236_6af95d7943_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809351236_bc6de23390_o.png",
+        "id_image": "squirrel_5483649"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809705764_20cba56c57_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809705764_13925c6fa3_o.png",
+        "id_image": "squirrel_789464"
+      }
+    ],
+    "hash_code_list_img": "-1072895767"
   }
 ]
